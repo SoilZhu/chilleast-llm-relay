@@ -5,14 +5,10 @@
 
 ## 怎么用？
 部署到 CloudFlare Worker 后设置
+
 ```
-
 UPSTREAM_API_KEY
-
 UPSTREAM_BASE_URL
-
 UPSTREAM_MODEL
-
 WORKER_API_KEY
-
 ```
